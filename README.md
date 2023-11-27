@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdul Arif</h1>
-<h3 align="center">A Passionate FullStack Developer from Chennai</h3>
+<h3 align="center">A Passionate FullStack Developer from Chennai 
+  
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif2435&label=Profile%20views&color=0e75b6&style=flat" alt="arif2435" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif2435" alt="arif2435" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/michaelabdul18" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/michaelabdul18?logo=twitter&style=for-the-badge" alt="https://twitter.com/michaelabdul18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@michaelabdul18" target="blank"><img src="https://img.shields.io/twitter/follow/@michaelabdul18?logo=twitter&style=for-the-badge" alt="@michaelabdul18" /></a> </p>
 
 - 🔭 I’m currently working on [MVC](https://mvcproject.com/c/abdularif)
 
@@ -22,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/arif2435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arif2435" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/michaelabdul18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/michaelabdul18" height="30" width="40" /></a>
+<a href="https://twitter.com/@michaelabdul18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michaelabdul18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-arif-b0a28b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-arif-b0a28b226" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/arif2435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arif2435" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php" height="30" width="40" /></a>
