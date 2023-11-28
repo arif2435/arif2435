@@ -1,29 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdul Arif 
+<h1 align="center">
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Faqsolution14%2Ffull-stack-website-developer&psig=AOvVaw0f9KThSO-ksGsDUNNscrrP&ust=1701227687035000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDCnZHd5YIDFQAAAAAdAAAAABAbHi 
   
-<p align="center"> 
-  <a href="https://github.com/peterthehan"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"> 
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a> 
-  <a href="https://www.linkedin.com/in/peterthehan"> 
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a> 
-  <a href="https://www.npmjs.com/~peterthehan"> 
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a> 
-</p> 
-<p align="center"> 
-  <a href="https://discord.gg/WjEFnzC"> 
-    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a> 
-  <a href="https://www.threads.net/@peterthehan"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white"> 
-      <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a> 
-  <a href="https://youtube.com/@peterthehan"> 
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a> 
-</p>
-</h1>
-<h3 align="center">A Passionate FullStack Developer from Chennai 
-  
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></h3>
+👋, I'm Abdul Arif <p align="center"> <a href="https://github.com/peterthehan"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"> <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a> <a href="https://www.linkedin.com/in/peterthehan"> <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a> <a href="https://www.npmjs.com/~peterthehan"> <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a> </p> <p align="center"> <a href="https://discord.gg/WjEFnzC"> <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a> <a href="https://www.threads.net/@peterthehan"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white"> <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a> <a href="https://youtube.com/@peterthehan"> <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a> </p></h1>
+<h3 align="center">A Passionate FullStack Developer from Chennai <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif2435&label=Profile%20views&color=0e75b6&style=flat" alt="arif2435" /> </p>
 
